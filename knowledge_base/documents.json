@@ -1,0 +1,77 @@
+[
+  {
+    "id": "horario_geral",
+    "title": "Horário geral de atendimento",
+    "text": "A Clínica Vida Saudável atende de segunda a sexta-feira, das 08h00 às 20h00. Aos sábados, o atendimento é das 08h00 às 13h00. Domingos e feriados nacionais a clínica permanece fechada, exceto plantão de urgência mediante agendamento prévio."
+  },
+  {
+    "id": "horario_consultas",
+    "title": "Agendamento de consultas",
+    "text": "Consultas médicas podem ser agendadas pelo telefone, aplicativo ou balcão presencial. O horário preferencial para agendamento telefónico é das 08h00 às 18h00. Recomenda-se chegar com 15 minutos de antecedência em relação ao horário marcado."
+  },
+  {
+    "id": "convenios_principais",
+    "title": "Convênios aceitos",
+    "text": "A clínica aceita os seguintes planos de saúde: Saúde Total, Medis+, Vida Plena, Nacional Saúde e Rede Cuidar. Para outros convénios, consulte a secretaria para verificar parcerias em atualização. Particular é sempre aceite."
+  },
+  {
+    "id": "convenios_documentacao",
+    "title": "Documentação para convênio",
+    "text": "No dia da consulta com convénio, traga cartão do plano válido, documento de identificação com fotografia e pedido médico quando aplicável. Cartões vencidos ou sem autorização prévia podem impedir o atendimento pelo plano."
+  },
+  {
+    "id": "exames_laboratorio",
+    "title": "Exames de laboratório",
+    "text": "Realizamos análises clínicas gerais: hemograma completo, glicemia, perfil lipídico, função renal e hepática, hormonas da tiróide, marcadores inflamatórios e urina tipo I. Alguns exames exigem jejum de 8 a 12 horas; informe-se no agendamento."
+  },
+  {
+    "id": "exames_imagiologia",
+    "title": "Exames de imagiologia",
+    "text": "Disponibilizamos ecografia abdominal, ecografia obstétrica, radiografia simples, mamografia e densitometria óssea. Ressonância magnética e tomografia computadorizada são realizadas em parceiro externo com marcação centralizada pela clínica."
+  },
+  {
+    "id": "exames_cardiologia",
+    "title": "Exames cardiológicos",
+    "text": "Oferecemos eletrocardiograma (ECG), Holter de 24h, monitorização da pressão arterial (MAPA) e teste de esforço, mediante indicação médica e disponibilidade de agenda."
+  },
+  {
+    "id": "regras_cancelamento",
+    "title": "Cancelamento e faltas",
+    "text": "Cancelamentos ou remarcações devem ser feitos com pelo menos 24 horas de antecedência. Faltas sem aviso prévio podem gerar taxa administrativa em consultas particulares ou registo no histórico para utilizadores de convénio, conforme regras do plano."
+  },
+  {
+    "id": "regras_privacidade",
+    "title": "Privacidade e RGPD",
+    "text": "Os dados de saúde são tratados em conformidade com a legislação aplicável. Os utentes têm direito de acesso, retificação e oposição nos termos legais. Não divulgamos resultados de exames por telefone sem verificação de identidade."
+  },
+  {
+    "id": "regras_acompanhantes",
+    "title": "Acompanhantes e visitas",
+    "text": "É permitido um acompanhante por utente nas consultas ambulatórias, salvo indicação médica em contrário. Em zonas de exames sensíveis, o acesso pode ser restrito."
+  },
+  {
+    "id": "regras_urgencias",
+    "title": "Situações de urgência",
+    "text": "Em emergências graves (dor torácica intensa, perda de consciência, hemorragia importante), dirija-se ao serviço de urgência hospitalar mais próximo ou ligue o número europeu 112. A clínica não dispõe de serviço de urgência 24h permanente."
+  },
+  {
+    "id": "contactos",
+    "title": "Contactos",
+    "text": "Linha geral: +351 210 000 000. Email: contacto@clinicavidasaudavel.pt. Morada: Rua da Saúde, 100, Lisboa. Estacionamento público nas proximidades."
+  },
+  {
+    "id": "medicamentos_receita",
+    "title": "Receitas e medicamentos",
+    "text": "A clínica não dispensa medicamentos. Receitas electrónicas são enviadas para o sistema nacional quando aplicável; cópias em papel podem ser solicitadas no balcão após a consulta."
+  },
+  {
+    "id": "vacinas",
+    "title": "Vacinação",
+    "text": "Vacinação sazonal (gripe) e outras vacinas do calendário nacional estão disponíveis mediante stock e indicação clínica. Agende com antecedência na época de campanhas."
+  },
+  {
+    "id": "acessibilidade",
+    "title": "Acessibilidade",
+    "text": "O edifício possui rampas, elevador e casa de banho adaptada. Utentes com necessidades específicas devem indicá-lo no agendamento para garantir sala adequada."
+  }
+]
